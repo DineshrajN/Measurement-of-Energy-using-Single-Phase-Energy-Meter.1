@@ -1,5 +1,5 @@
-### Name : vishwa J
-### Reg no : 212223080060
+### Name : Dineshraj N
+### Reg no : 212223080012
 # Aim:
 To measure energy using Single Phase Energy Meter
 
